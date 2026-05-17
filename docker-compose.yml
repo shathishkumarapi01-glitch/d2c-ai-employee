@@ -1,0 +1,5 @@
+# Docker Compose — OPTIONAL (not required for local development)
+# The platform runs directly with SQLite. Use this only for production with PostgreSQL.
+#
+# For local dev, just run:
+#   cd backend && pip3 install -r requirements.txt && python3 -m uvicorn app.main:app --port 3005 --reload

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+httpx
+openai
+duckdb
+pydantic
+python-dotenv
+sqlalchemy
+aiosqlite
+greenlet
+pydantic-settings
+google-api-python-client
+google-auth
+google-auth-httplib2
