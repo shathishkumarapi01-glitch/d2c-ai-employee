@@ -144,7 +144,7 @@ cd d2c-ai-employee
 Run backend:
 
 ```bash
-cd /Users/user/Downloads/SHIP_ROCKET
+cd d2c-ai-employee
 python3 -m venv venv
 ./venv/bin/pip install -r backend/requirements.txt
 cd backend
@@ -176,7 +176,7 @@ curl -X POST http://localhost:3005/api/v1/chat \
 The Next.js frontend is included as a demo shell for reviewers who want to click through dashboard/chat flows. It is not the core artifact and may need local Node/npm cleanup depending on the machine.
 
 ```bash
-cd /Users/user/Downloads/SHIP_ROCKET/frontend
+cd frontend
 npm install
 npm run dev
 ```
