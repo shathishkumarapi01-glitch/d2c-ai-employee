@@ -137,11 +137,9 @@ Recommended path for review is backend-first. The backend contains the core subm
 Clone after the GitHub repo is created:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/d2c-ai-employee.git
+git clone https://github.com/shathishkumarapi01-glitch/d2c-ai-employee.git
 cd d2c-ai-employee
 ```
-
-Replace `YOUR_USERNAME` with the actual GitHub username before submission.
 
 Run backend:
 
